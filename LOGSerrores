@@ -1,0 +1,20 @@
+(3 rows affected)
+Msg 544, Level 16, State 1, Line 42
+Cannot insert explicit value for identity column in table 'Procurador' when IDENTITY_INSERT is set to OFF.
+Msg 544, Level 16, State 1, Line 48
+Cannot insert explicit value for identity column in table 'Asunto' when IDENTITY_INSERT is set to OFF.
+Msg 547, Level 16, State 0, Line 54
+The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Asunto_Pr__num_e__70FDBF69". The conflict occurred in database "master", table "dbo.Asunto", column 'num_expediente'.
+The statement has been terminated.
+Caution: Changing any part of an object name could break scripts and stored procedures.
+Caution: Changing any part of an object name could break scripts and stored procedures.
+Caution: Changing any part of an object name could break scripts and stored procedures.
+Caution: Changing any part of an object name could break scripts and stored procedures.
+
+(0 rows affected)
+
+(0 rows affected)
+Msg 207, Level 16, State 1, Line 75
+Invalid column name 'DNI'.
+
+Completion time: 2024-10-18T14:42:49.7319176-05:00
